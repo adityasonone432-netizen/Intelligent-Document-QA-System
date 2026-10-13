@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Personal documents used for testing (do not upload private PDFs)
+*.pdf
